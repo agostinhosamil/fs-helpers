@@ -9,7 +9,7 @@
   "scripts": {
     "build": "echo no build yet"
   },
-  "displayName": "Asa.ml",
+  "displayName": "FS Helpers",
   "homepage": "https://github.com/agostinhosamil/fs-helpers#readme",
   "bugs": {
     "url": "https://github.com/agostinhosamil/fs-helpers/issues",
