@@ -1,0 +1,40 @@
+{
+  "name": "fs-helpers",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "description": "FileSystem module helpers package",
+  "author": "Agostinho Sam'l <agostinhosaml832@gmail.com> (https://agostinhosam.com)",
+  "private": false,
+  "scripts": {
+    "build": "echo no build yet"
+  },
+  "displayName": "Asa.ml",
+  "homepage": "https://github.com/agostinhosamil/fs-helpers#readme",
+  "bugs": {
+    "url": "https://github.com/agostinhosamil/fs-helpers/issues",
+    "email": "samil.shell.main007@gmail.com"
+  },
+  "links": [
+    {
+      "label": "Website",
+      "url": "https://www.agostinhosam.com"
+    },
+    {
+      "label": "Agostinho Sam'l On Facebook",
+      "url": "https://www.facebook.com/agostinhosaml"
+    },
+    {
+      "label": "Agostinho Sam'l On X",
+      "url": "https://www.x.com/@agostinhosaml"
+    },
+    {
+      "label": "Agostinho Sam'l On Github",
+      "url": "https://www.github.com/agostinhosamil"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agostinhosamil/fs-helpers.git"
+  }
+}
